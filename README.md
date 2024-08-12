@@ -12,7 +12,7 @@
 ## 🚀 Projects
 - [Keylogger Project](https://github.com/YourUsername/KeyloggerProject): A sophisticated keylogger that logs keystrokes, captures screenshots, and detects the active window.
 - [LinkHub](https://github.com/YourUsername/LinkHub): A web application that organizes and displays the most popular websites in various fields.
-- [Your Project](https://github.com/YourUsername/YourProject): Brief description of another project.
+
 
 ## المهارات:
 - **شهادات معترف بها**:
