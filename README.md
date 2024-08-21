@@ -11,8 +11,8 @@
 
 ## 🚀 Projects
 - [Keylogger Project](https://github.com/MAHMOUDOMAR01/keylogger): A sophisticated keylogger that logs keystrokes, captures screenshots, and detects the active window.
-- [LinkHub](https://github.com/YourUsername/LinkHub): A web application that organizes and displays the most popular websites in various fields.
-
+- [virus_scanner](https://github.com/MAHMOUDOMAR01/virus_scanner):  A file scanning tool designed to identify malicious files by checking their MD5 signatures
+- [Web-Application-Firewall-WAF](https://github.com/MAHMOUDOMAR01/Web-Application-Firewall-WAF): A Web Application Firewall (WAF) designed to protect web applications from common security threats and attacks.
 
 ## المهارات:
 - **شهادات معترف بها**:
