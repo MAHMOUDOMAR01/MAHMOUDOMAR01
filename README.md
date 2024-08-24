@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MAHMOUD OMAR</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudOmar&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudOmar" /> </p>
 
-<h3 align="center">Cyber Security  and Bug Hunter</h3>
+<h3 align="center">cyber Security and Penetration Tester</h3>
 
 <p align="left">أنا متخصص في **التحقق من أمان تطبيقات الويب (Web Penetration Testing)** ضمن مجال الأمن السيبراني. لدي شغف كبير بالتعلم وكشف الثغرات لتعزيز الأمان الإلكتروني. أتمتع بقدرة عالية على اكتشاف التهديدات والثغرات المحتملة من خلال تقنيات اختبار الاختراق المتقدمة. أهدف إلى المساهمة في خلق بيئة رقمية أكثر أمانًا لجميع المستخدمين.</p>
 
